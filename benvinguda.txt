@@ -1,5 +1,6 @@
 Kaloyan
 (A) Benvinguda a la branca 01 Kaloyan
 (B) Modificació 01 Main Kaloyan
+(C) Benvinguda a la branca 02 NomAlumne
 (D) Modificació 02 Main Kaloyan
 (E) Afegim imatge a branca01.
