@@ -1,2 +1,3 @@
 Kaloyan
 (A) Benvinguda a la branca 01 Kaloyan
+(E) Afegim imatge a branca01.
